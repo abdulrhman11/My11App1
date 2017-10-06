@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="display_all">Display all</string>
+    <string name="add_sudent">ADD sudent</string>
+</resources>
